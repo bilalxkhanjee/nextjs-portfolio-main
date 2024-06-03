@@ -159,6 +159,15 @@ const projectsData = [
     gitUrl: "/",
     previewUrl: "/",
   },
+  {
+    id: 18,
+    title: "Assignment Mentor",
+    description: "A UK based Assignment help onlne website",
+    image: "/images/projects/296.png",
+    tag: ["All", "Web"],
+    gitUrl: "/",
+    previewUrl: "/",
+  },
 ];
 
 const ProjectsSection = () => {
